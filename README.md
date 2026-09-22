@@ -1,0 +1,1 @@
+This is our group project for the AI and prompt engineering course.
